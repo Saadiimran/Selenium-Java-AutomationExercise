@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="DemoQA Form Automation Suite">
+    <test name="Form Automation Test">
+        <classes>
+            <class name="tests.FormTest"/>
+        </classes>
+    </test>
+</suite>
